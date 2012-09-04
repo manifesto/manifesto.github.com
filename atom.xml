@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://manifesto.github.com/atom.xml" rel="self"/>
   <link href="http://manifesto.github.com/"/>
-  <updated>2012-09-04T15:56:55+02:00</updated>
+  <updated>2012-09-04T16:08:26+02:00</updated>
   <id>http://manifesto.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[像个黑客一样写博客]]></title>
+    <link href="http://manifesto.github.com/blog/2012/09/04/xiang-ge-hei-ke-%5B%3F%5D-yang-xie-bo-ke/"/>
+    <updated>2012-09-04T16:06:00+02:00</updated>
+    <id>http://manifesto.github.com/blog/2012/09/04/xiang-ge-hei-ke-[?]-yang-xie-bo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
